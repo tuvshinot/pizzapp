@@ -1,0 +1,5 @@
+ErrorDocument 404 /pizzapp/error.php
+
+Options All -Indexes
+
+ErrorDocument 403 /pizzapp/error.php
